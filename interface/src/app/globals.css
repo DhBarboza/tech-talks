@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+/*
+
+1. **Cor Principal (Azul Brilhante):**
+   - #007bff
+
+2. **Tons de Azul mais Escuros:**
+   - #004080
+   - #001a33
+
+3. **Cor de Destaque (Contraste):**
+   - #ff9900 (um laranja vibrante pode criar um bom contraste)
+
+4. **Cores Neutras:**
+   - #292929 (preto ligeiramente acinzentado)
+   - #666666 (cinza médio)
+   - #999999 (cinza claro)
+
+5. **Cor de Fundo:**
+   - #121212 (um preto profundo para o fundo do site)
+
+*/
