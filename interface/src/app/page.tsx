@@ -4,11 +4,21 @@ import Container from "@/components/Container";
 
 export default function Home() {
     return (
-        <div>
+        <main className="min-h-screen flex flex-col">
             <Header />
+                <div className="flex flex-1 mx-auto max-w-[600px] w-full h-full items-center justify-center">
             <Container>
-                <h1>Hello</h1>
+                    <div>
+                        <span>Join</span>
+                        <span>Nwe Meeting</span>
+                    </div>
+                    <div>
+                        <input type="text" name="" id="" placeholder="s" />
+                        <input type="text" name="" id="" placeholder="s" />
+                        <button>Enter</button>
+                    </div>
             </Container>
-        </div>
+                </div>
+        </main>
     );
 }
