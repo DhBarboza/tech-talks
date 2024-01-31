@@ -17,6 +17,7 @@ const config: Config = {
                 "background-page": "#121212",
                 "background-comp": "#001a33",
                 primary: "#007bff",
+                secondary: "#004080",
             },
         },
     },
