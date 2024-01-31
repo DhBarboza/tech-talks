@@ -18,6 +18,7 @@ const config: Config = {
                 "background-comp": "#001a33",
                 primary: "#007bff",
                 secondary: "#004080",
+                'terciary': "#002f5e",
             },
         },
     },
